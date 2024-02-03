@@ -1,6 +1,6 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png "C++ 版「4A5B」")
 
-# 古老的 猜数游戏 -「1A2B」拓展版 (C++ & Keil.C)
+# 古老的 猜数游戏 -「1A2B」拓展版 (C++)
 
 ## 关于
 * 猜 4 位数 的 益智游戏「1A2B」=「公牛 & 母牛」=「那么问题来了.apk」
@@ -15,12 +15,12 @@
     * 软件：基于 Keil.C 实现
     * 硬件：物理层面 利用串口 传输数据 与板交互
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png "Keil.C 版「1A2B」")
 
 ## 实施
 * 详细流程见 "Xcz - 两大程序的操作说明.mp4"
     * 遇到任何困难，优先观看该视频，以查找解决方案
-1. 使用 Visual C++ 6.0 打开 "Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp"；更准确地说，
+1. 使用 Visual C++ 6.0 打开 "Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp"；也即，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
     * VC6.0 [下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
 2. 使用 "sscom32.exe" 与 F350 学习板 进行交互
@@ -28,9 +28,9 @@
         * 安装 Keil uVision3 (Keil.C51.v8.05) 等相应软件
         * 调试 C8051F350 开发板
     * 按 "Xcz - 两大程序的操作说明.mp4" 继续后续操作
-        * 打开 子文件夹 "Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game"
+        * 打开 子目录 "Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game"
             * 打开工程文件 ".Uv2"；编译 ".c" 文件
-        * 利用 主文件夹 中的 "sscom32.exe" 进行串口通信
+        * 利用 主目录 中的 "sscom32.exe" 进行串口通信
 
 ## 历史
 * 第 7 学期 单片机 课程大作业「1A2B」及其 C++ 版 副产品「4A5B」
