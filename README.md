@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
 
 # Ancient Guessing Game -「1A2B」's Extended Version (C++)
 
@@ -15,7 +15,7 @@
     * Software: Based on Keil C implementation
     * Hardware: The physical level utilizes serial port to transmit data and interact with the board
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png)
 
 ## Inplementation
 * The detailed process can be found in "Xcz - Operating Instructions for Two Programs.mp4"

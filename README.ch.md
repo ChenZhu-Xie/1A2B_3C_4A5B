@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
 
 # 古老的 猜数游戏 -「1A2B」拓展版 (C++)
 
@@ -15,7 +15,7 @@
     * 软件：基于 Keil.C 实现
     * 硬件：物理层面 利用串口 传输数据 与板交互
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png)
 
 ## 实施
 * 详细流程见 "Xcz - 两大程序的操作说明.mp4"
