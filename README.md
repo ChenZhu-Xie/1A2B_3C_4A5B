@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
 
-# Ancient Guessing Game -「1A2B」's Extended Version (C++)
+# Ancient Guessing Game -「1A2B」's Extended Version (C++ & Keil.C)
 
 ## About
 * Puzzle game of guessing 4-digit「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」

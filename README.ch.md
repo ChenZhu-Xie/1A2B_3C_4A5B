@@ -1,6 +1,6 @@
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)
 
-# 古老的 猜数游戏 -「1A2B」拓展版 (C++)
+# 古老的 猜数游戏 -「1A2B」拓展版 (C++ & Keil.C)
 
 ## 关于
 * 猜 4 位数 的 益智游戏「1A2B」=「公牛 & 母牛」=「那么问题来了.apk」
