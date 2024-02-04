@@ -20,7 +20,7 @@
 ## Inplementation
 * The detailed process can be found in "Xcz - Operating Instructions for Two Programs.mp4"
     * If any difficulties is encountered, prioritize watching this video to find solutions
-1. Use Visual C ++ 6.0 to open "Xcz - A 1~9-order 10-dimensional decryption game_v1.03_Beta.cpp", to be more precise, 
+1. Open "Xcz - A 1~9-order 10-dimensional decryption game_v1.03_Beta.cpp" with Visual C ++ 6.0, more precisely, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA); Higher version of C++ is recommended, but may not be able to run this project?
 2. Use "sscom32.exe" to interact with the F350 Learning Board
@@ -31,9 +31,6 @@
         * Open the subfolder "Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game"
             * Open the project file ".uv2"；Compile the ".c" file
         * Use "sscom 32.exe" in the main folder for serial communication
-
-1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
-2. Open any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
 
 ## History
 * 7 th semester Microcontroller Course Assignment「1A2B」and its C++ Version by-product「4A5B」
