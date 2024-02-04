@@ -1,4 +1,5 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png "C++ 版「4A5B」")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png "C++ 版「4A5B」") -->
+![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png "C++ 版「4A5B」")
 
 # 古老的 猜数游戏 -「1A2B」拓展版 (C++)
 
