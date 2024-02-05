@@ -3,12 +3,14 @@
 # Ancient Guessing Game -「1A2B」's Extended Version (C++ & Keil.C)
 
 ## About
-* Puzzle game of guessing 4-digit「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
+* This repo 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a puzzle game about guessing 4 digits
+* This repo is equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
 * This repo is inspired by「So here comes the problem.apk」, and contains
     * Keil C Microcontroller Course Assignment「1A2B」
     * 「1A2B」's Extended Version「4A5B」built by C++
 
 ## Description
+* Undergraduate 7 th semester Microcontroller Course Assignment「1A2B」and its C++ Version by-product「4A5B」
 1. The upgraded version「4A5B」of the guessing game「1A2B」
     * Software: CMD / DOS window based on C++
 2. 「1A2B」realized by six-digit digital display F350 microcontroller
@@ -33,10 +35,10 @@
         * Use "sscom 32.exe" in the main folder for serial communication
 
 ## History
-* 7 th semester Microcontroller Course Assignment「1A2B」and its C++ Version by-product「4A5B」
-    * by 22-year_5-month-old Xcz
-    * during 4 th grade of undergraduate studies (3.1/4.0)
-    * September, 2019
+* This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) 's birth date
+    * Personal time: by 22-year_5-month-old Xcz
+    * Personal stage: during 4 th grade of undergraduate studies (3.1/4.0)
+    * World time: September, 2019
 
 <!-- ## Software Architecture
 Software architecture description
