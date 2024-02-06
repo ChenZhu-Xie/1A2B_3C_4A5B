@@ -34,7 +34,7 @@
             * Open the project file ".uv2"；Compile the ".c" file
         * Use "sscom 32.exe" in the main folder for serial communication
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/"Xcz - 两大程序的操作说明.mp4" "Xcz - Operating Instructions for Two Programs.mp4")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/Xcz-两大程序的操作说明.mp4 "Xcz - Operating Instructions for Two Programs.mp4")
 
 ## History
 * This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) 's birth date
