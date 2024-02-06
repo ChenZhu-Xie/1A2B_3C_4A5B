@@ -17,7 +17,8 @@
     * Software: Based on Keil C implementation
     * Hardware: The physical level utilizes serial port to transmit data and interact with the board
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png "「1A2B」with Keil.C")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png "「1A2B」with Keil.C") -->
+[![Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/youtube.png)](https://youtu.be/BiX5CQXVdPY "Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits")
 
 ## Inplementation
 * The detailed process can be found in "Xcz - Operating Instructions for Two Programs.mp4"
@@ -35,7 +36,7 @@
         * Use "sscom 32.exe" in the main folder for serial communication
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/Xcz-两大程序的操作说明.mp4 "Xcz - Operating Instructions for Two Programs.mp4") -->
-[![Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits](https://res.cloudinary.com/marcomontalbano/image/upload/v1707237797/video_to_markdown/images/youtube--BiX5CQXVdPY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/BiX5CQXVdPY "Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits")
+<!-- [![Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits](https://res.cloudinary.com/marcomontalbano/image/upload/v1707237797/video_to_markdown/images/youtube--BiX5CQXVdPY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/BiX5CQXVdPY "Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits") -->
 
 ## History
 * This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) 's birth date
