@@ -19,7 +19,8 @@
     * 硬件：物理层面 利用串口 传输数据 与板交互
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png "Keil.C 版「1A2B」") -->
-![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_1.png "Keil.C 版「1A2B」")
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_1.png "Keil.C 版「1A2B」") -->
+[![单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/bili.png)](https://www.bilibili.com/video/BV1GU421o7hv "单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」")
 
 ## 实施
 * 详细流程见 "Xcz - 两大程序的操作说明.mp4"
