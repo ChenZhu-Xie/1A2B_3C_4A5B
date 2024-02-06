@@ -3,9 +3,9 @@
 # Ancient Guessing Game -「1A2B」's Extended Version (C++ & Keil.C)
 
 ## About
-* This repo 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a puzzle game about guessing 4 digits
-* This repo is equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
-* This repo is inspired by「So here comes the problem.apk」, and contains
+* This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a puzzle game about guessing 4 digits
+* This project is equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
+* This project is inspired by「So here comes the problem.apk」, and contains
     * Keil C Microcontroller Course Assignment「1A2B」
     * 「1A2B」's Extended Version「4A5B」built by C++
 
