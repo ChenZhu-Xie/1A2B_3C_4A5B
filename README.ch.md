@@ -36,6 +36,8 @@
             * 打开 工程文件 ".Uv2"；编译 ".c" 文件
         * 利用 主目录 中的 "sscom32.exe" 进行串口通信
 
+![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/"Xcz - 两大程序的操作说明.mp4" "Xcz - 两大程序的操作说明.mp4")
+
 ## 历史
 * 该项目 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B) 的 诞生日期
     * 个人时间：22 岁 5 月
