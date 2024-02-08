@@ -23,7 +23,7 @@
 ## Inplementation
 * The detailed process can be found in "Xcz - Operating Instructions for Two Programs.mp4"
     * If any difficulties is encountered, prioritize watching this video to find solutions
-1. Open "Xcz - A 1~9-order 10-dimensional decryption game_v1.03_Beta.cpp" with Visual C ++ 6.0, more precisely, 
+1. Run "Xcz - A 1~9-order 10-dimensional decryption game_v1.03_Beta.cpp" with Visual C ++ 6.0, more precisely, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
 2. Use "sscom32.exe" to interact with the F350 Learning Board
