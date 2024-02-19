@@ -9,6 +9,7 @@
 * 该 project 受「那么问题来了.apk」启发，包含
     * Keil C 单片机课程 大作业「1A2B」
     * 「1A2B」的 C++ 拓展版「4A5B」
+* English「README」ⓔ 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## 介绍
 * 大学本科 第 7 学期 单片机 课程大作业「1A2B」及其 C++ 版 副产品「4A5B」

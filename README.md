@@ -8,6 +8,7 @@
 * This project is inspired by「So here comes the problem.apk」, and contains
     * Keil C Microcontroller Course Assignment「1A2B」
     * 「1A2B」's Extended Version「4A5B」built by C++
+* 中文「自述文档」㊥ 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## Description
 * Undergraduate 7 th semester Microcontroller Course Assignment「1A2B」and its C++ Version by-product「4A5B」
