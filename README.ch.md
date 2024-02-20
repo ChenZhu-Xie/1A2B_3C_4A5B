@@ -21,12 +21,12 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_1.png "Keil.C 版「1A2B」") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_1.png "Keil.C 版「1A2B」") -->
-[![单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/bili.png)](https://www.bilibili.com/video/BV1GU421o7hv "单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」")
+[![单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/bili.png)](https://www.bilibili.com/video/BV1GU421o7hv "单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」")
 
 ## 实施
-* 详细流程见 "Xcz - 两大程序的操作说明.mp4"
+* 详细流程见 "[Xcz - 两大程序的操作说明.mp4](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20两大程序的操作说明.mp4)"
     * 遇到任何困难，优先观看该视频，以查找解决方案
-1. 使用 Visual C++ 6.0 运行 "Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp"；也即，
+1. 使用 Visual C++ 6.0 运行 "[Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)"；也即，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
     * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
 2. 使用 "sscom32.exe" 与 F350 学习板 进行交互

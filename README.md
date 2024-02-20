@@ -22,9 +22,9 @@
 [![Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/bili.png)](https://youtu.be/BiX5CQXVdPY "Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits")
 
 ## Inplementation
-* The detailed process can be found in "Xcz - Operating Instructions for Two Programs.mp4"
+* The detailed process can be found in "[Xcz - Operating Instructions for Two Programs.mp4](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20Operating Instructions for Two Programs.mp4)"
     * If any difficulties is encountered, prioritize watching this video to find solutions
-1. Run "Xcz - A 1~9-order 10-dimensional decryption game_v1.03_Beta.cpp" with Visual C ++ 6.0, more precisely, 
+1. Run "[Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)" with Visual C ++ 6.0, more precisely, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
 2. Use "sscom32.exe" to interact with the F350 Learning Board
