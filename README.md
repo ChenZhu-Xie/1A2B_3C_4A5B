@@ -3,11 +3,13 @@
 # Ancient Guessing Game -「1A2B」's Extended Version (C++ & Keil.C)
 
 ## About
-* This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a puzzle game about guessing 4 digits
-* This project is equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
-* This project is inspired by「So here comes the problem.apk」, and contains
-    * Keil C Microcontroller Course Assignment「1A2B」
-    * 「1A2B」's Extended Version「4A5B」built by C++
+* This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B)
+    * is inspired by「So here comes the problem.apk」
+    * Contains Keil.C assignment ⊃ 👉 [Keil C Microcontroller Course Assignment「1A2B」](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/4__7.1__Micro_Control_Unit_(MCU)__3.5_year)
+        * A puzzle game about guessing 4 digits
+        * Equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
+    * Contains C++ game ⊃ 👉[「1A2B」's Extended Version「4A5B」](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)
+        * A puzzle game about guessing 1 - 9 digits
 * 中文「自述文档」㊥ 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## Description
