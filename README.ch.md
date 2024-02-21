@@ -5,7 +5,7 @@
 
 ## 关于
 * 该项目 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
-    * 属于生涯 ⊊ 👉 [undergraduate courses](https://gitee.com/ChenZhu-Xie/undergraduate_courses)
+    * 属于生涯 ⊊ 👉 [本科 课程](https://gitee.com/ChenZhu-Xie/undergraduate_courses)
     * 受「那么问题来了.apk」启发
     * 包含 Keil.C 作业 ⊃ 👉 [Keil.C 单片机课程 大作业「1A2B」](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/4__7.1__Micro_Control_Unit_(MCU)__3.5_year)
         * 一个「猜 4 位数字的」益智游戏
