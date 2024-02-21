@@ -24,17 +24,17 @@
 [![Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/bili.png)](https://youtu.be/BiX5CQXVdPY "Extended「Bulls and Cows」=「1A2B」➜「4A5B」🤔 From guessing 4 digits to 1-9 digits")
 
 ## Inplementation
-* The detailed process can be found in "[Xcz - Operating Instructions for Two Programs.mp4](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20Operating Instructions for Two Programs.mp4)"
+* The detailed process can be found in "[Xcz - Operating Instructions for Two Programs.mp4](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20两大程序的操作说明.mp4)"
     * If any difficulties is encountered, prioritize watching this video to find solutions
 1. Run "[Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)" with Visual C ++ 6.0, more precisely, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
 2. Use "sscom32.exe" to interact with the F350 Learning Board
-    * Decompress the course material "Teacher - C8051F350：2019 Course Materials.zip"
+    * Decompress the course material "[Teacher - C8051F350：2019 Course Materials.zip](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Teacher%20-%20C8051F350：2019%20Course%20Materials.zip)"
         * Install the corresponding software, e.g., Keil Uvision3 (keil.c51.v8.05)
         * Debugging C8051F350 Development Board
-    * Follow "Xcz - Operating Instructions for Two Programs.mp4" to continue with subsequent operations
-        * Open the subfolder "Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game"
+    * Follow "[Xcz - Operating Instructions for Two Programs.mp4](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20两大程序的操作说明.mp4)" to continue with subsequent operations
+        * Open the subfolder "[Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game)"
             * Open the project file ".uv2"；Compile the ".c" file
         * Use "sscom 32.exe" in the main folder for serial communication
 

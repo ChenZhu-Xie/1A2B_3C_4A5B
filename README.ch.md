@@ -32,11 +32,11 @@
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
     * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
 2. 使用 "sscom32.exe" 与 F350 学习板 进行交互
-    * 解压 课程材料 "Teacher - C8051F350：2019 Course Materials.zip"
+    * 解压 课程材料 "[Teacher - C8051F350：2019 Course Materials.zip](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Teacher%20-%20C8051F350：2019%20Course%20Materials.zip)"
         * 安装 Keil uVision3 (Keil.C51.v8.05) 等相应软件
         * 调试 C8051F350 开发板
-    * 按 "Xcz - 两大程序的操作说明.mp4" 继续后续操作
-        * 打开 子目录 "Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game"
+    * 按 "[Xcz - 两大程序的操作说明.mp4](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20两大程序的操作说明.mp4)" 继续后续操作
+        * 打开 子目录 "[Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game)"
             * 打开 工程文件 ".Uv2"；编译 ".c" 文件
         * 利用 主目录 中的 "sscom32.exe" 进行串口通信
 
