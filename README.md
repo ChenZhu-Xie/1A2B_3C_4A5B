@@ -6,7 +6,7 @@
 * This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B)
     * Belongs to career ⊊ 👉 [undergraduate courses](https://github.com/ChenZhu-Xie/undergraduate_courses)
     * is inspired by「So here comes the problem.apk」
-    * Contains Keil.C assignment ⊃ 👉 [Keil.C Microcontroller Course Assignment「1A2B」](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/4__7.1__Micro_Control_Unit_(MCU)__3.5_year)
+    * Contains Keil.C assignment ⊃ 👉 [Keil.C MicroController Course Assignment「1A2B」](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/4__7.1__Micro_Control_Unit_(MCU)__3.5_year)
         * A puzzle game about guessing 4 digits
         * Equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
     * Contains C++ game ⊃ 👉[「1A2B」's Extended Version「4A5B」](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)
@@ -14,10 +14,10 @@
 * 中文「自述文档」㊥ 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## Description
-* Undergraduate 7 th semester Microcontroller Course Assignment「1A2B」and its C++ Version by-product「4A5B」
+* Undergraduate MicroController Course Assignment「1A2B」and its C++ Version by-product「4A5B」
 1. The upgraded version「4A5B」of the guessing game「1A2B」
     * Software: CMD / DOS window based on C++
-2. 「1A2B」realized by six-digit digital display F350 microcontroller
+2. 「1A2B」realized by six-digit digital display F350 MicroController
     * Software: Based on Keil.C implementation
     * Hardware: The physical level utilizes serial port to transmit data and interact with the board
 
@@ -45,7 +45,7 @@
 ## History
 * This project 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) 's birth date
     * Personal time: by 22-year_5-month-old Xcz
-    * Personal stage: during 4 th grade of undergraduate studies (3.1/4.0)
+    * Personal stage: during 7 th semester, 4 th grade of undergraduate studies (3.1/4.0)
     * World time: September, 2019
 
 <!-- ## Software Architecture
