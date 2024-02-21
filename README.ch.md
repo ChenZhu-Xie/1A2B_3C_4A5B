@@ -7,10 +7,10 @@
 * 该项目 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
     * 属于生涯 ⊊ 👉 [undergraduate courses](https://gitee.com/ChenZhu-Xie/undergraduate_courses)
     * 受「那么问题来了.apk」启发
-    * 包含作业 ⊃ 👉 [Keil.C 单片机课程 大作业「1A2B」](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/4__7.1__Micro_Control_Unit_(MCU)__3.5_year)
+    * 包含 Keil.C 作业 ⊃ 👉 [Keil.C 单片机课程 大作业「1A2B」](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/4__7.1__Micro_Control_Unit_(MCU)__3.5_year)
         * 一个「猜 4 位数字的」益智游戏
         * 等价于「1A2B」=「公牛 & 母牛」=「那么问题来了.apk」
-    * Contains C++ game ⊃ 👉[「1A2B」的 C++ 拓展版「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)
+    * 包含 C++ 游戏 ⊃ 👉[「1A2B」的 C++ 拓展版「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)
         * 一个「猜 4 ~ 9 位数字的」益智游戏
 * English「README」ⓔ 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
