@@ -12,6 +12,7 @@
         * 等价于「1A2B」=「公牛 & 母牛」=「那么问题来了.apk」
     * 包含 C++ 游戏 ⊃ 👉[「1A2B」的 C++ 拓展版「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)
         * 一个「猜 4 ~ 9 位数字的」益智游戏
+        * 使用技术 ⊷ 👉 [C++](https://gitee.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/0__1.1__C++_Programming__0.5_year)
 * English「README」ⓔ 👉 [『1A2B』&『4A5B』](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## 介绍
