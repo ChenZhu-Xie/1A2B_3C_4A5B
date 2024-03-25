@@ -1,5 +1,6 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png "C++ 版「4A5B」") -->
-![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png "C++ 版「4A5B」")
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png "C++ 版「4A5B」") -->
+[![C++ 版「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png)](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp "C++ 版「4A5B」")
 
 # 古老的 猜数游戏 -「1A2B」拓展版 (C++)
 
@@ -28,7 +29,7 @@
 [![单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/bili.png)](https://www.bilibili.com/video/BV1GU421o7hv "单片机课程 大作业：Keil.C 写的「1A2B」及其 C++ 副产品「4A5B」")
 
 ## 实施
-* 详细流程见 "[Xcz - 两大程序的操作说明.mp4](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20两大程序的操作说明.mp4)"
+* 详细流程见 "[Xcz - 两大程序的操作说明.mp4](https://www.bilibili.com/video/BV1GU421o7hv)"
     * 遇到任何困难，优先观看该视频，以查找解决方案
 1. 使用 Visual C++ 6.0 运行 "[Xcz - 从1阶到9阶的10维解密游戏_v1.03_Beta.cpp](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)"；也即，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
@@ -37,7 +38,7 @@
     * 解压 课程材料 "[Teacher - C8051F350：2019 Course Materials.zip](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Teacher%20-%20C8051F350：2019%20Course%20Materials.zip)"
         * 安装 Keil uVision3 (Keil.C51.v8.05) 等相应软件
         * 调试 C8051F350 开发板
-    * 按 "[Xcz - 两大程序的操作说明.mp4](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20两大程序的操作说明.mp4)" 继续后续操作
+    * 按 "[Xcz - 两大程序的操作说明.mp4](https://www.bilibili.com/video/BV1GU421o7hv)" 继续后续操作
         * 打开 子目录 "[Xcz - C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20C8051F350：Do_Not_Go_Gentle_Into_That_Good_Game)"
             * 打开 工程文件 ".Uv2"；编译 ".c" 文件
         * 利用 主目录 中的 "sscom32.exe" 进行串口通信
