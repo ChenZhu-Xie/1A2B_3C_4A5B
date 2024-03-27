@@ -1,4 +1,4 @@
-[![「4A5B」with C++](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp "「4A5B」with C++")
+[![「4A5B」with C++](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png)](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp "4A5B.cpp")
 
 # Ancient Guessing Game -「1A2B」's Extended Version (C++ & Keil.C)
 

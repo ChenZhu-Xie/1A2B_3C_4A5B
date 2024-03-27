@@ -1,6 +1,6 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/1A2B_3C_4A5B/master/img/cover_2.png "C++ 版「4A5B」") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png "C++ 版「4A5B」") -->
-[![C++ 版「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png)](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp "C++ 版「4A5B」")
+[![C++ 版「4A5B」](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/raw/master/img/cover_2.png)](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp "4A5B.4A5B.cpp")
 
 # 古老的 猜数游戏 -「1A2B」拓展版 (C++)
 
