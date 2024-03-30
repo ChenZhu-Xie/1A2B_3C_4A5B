@@ -11,7 +11,7 @@
         * Equivalent to「1A2B」=「Bulls and Cows」=「So here comes the problem.apk」
     * Contains C++ game ⊃ 👉[「1A2B」's Extended Version「4A5B」](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B/tree/master/Xcz%20-%20从1阶到9阶的10维解密游戏_v1.03_Beta.cpp)
         * A puzzle game about guessing 1 - 9 digits
-        * Employs tech ⊷ 👉 [C++](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/0__1.1__C++_Programming__0.5_year)
+        * Employs tech ⊷ 👉 [C++](https://github.com/ChenZhu-Xie/undergraduate_courses/tree/master/04__2.2__Courses_Engineering/1__1.1__C++_Programming__0.5_year)
 * 中文「自述文档」㊥ 👉 [『1A2B』&『4A5B』](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
 
 ## Description
